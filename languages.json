@@ -1,0 +1,27 @@
+{
+    "hello": {
+        "initial-message": {
+            "pt-br": {"content": "Olá {author}! Como você está?!"},
+            "english": {"content": "Hello {author}! How are you!?"}
+        },
+        "final-message": {
+            "pt-br": {"content": "Ah, bacana!"},
+            "english": {"content": "Oh, cool!"}
+        },
+        "timeout-message": {
+            "pt-br": {"content": "{author}, tenha um bom dia!"},
+            "english": {"content": "{author}, have a good day!"}
+        }
+    },
+
+    "change": {
+        "success-message": {
+            "pt-br": {"content": "A língua foi trocada para `{language}`!"},
+            "english": {"content": "The language has been changed to `{language}`!"}
+        },
+        "unsuccess-message": {
+            "pt-br": {"content": "Eu não sei falar a língua `{language}`!"},
+            "english": {"content": "I don't know how to speak the `{language}` language!"}
+        }
+    }
+}
